@@ -36,3 +36,12 @@
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
+body {
+    background-image: url(https://th.bing.com/th/id/R.6db8544dd241e051dbae548fdcb59e34?rik=xUwQ2OLsBg4Q0w&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-size: 1fr;
+    background-blend-mode: 50%;
+}
+image {
+    opacity: 100%;
+}
